@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Hermit</title>
-    <link>https://juri323.github.io/</link>
-    <description>Recent content on Hugo Hermit</description>
+    <title>untagged on Hugo Hermit</title>
+    <link>https://juri323.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Hugo Hermit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 06 Dec 2020 16:40:15 +0800</lastBuildDate><atom:link href="https://juri323.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 16:40:15 +0800</lastBuildDate><atom:link href="https://juri323.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Title</title>
       <link>https://juri323.github.io/posts/post-title/</link>
@@ -33,6 +33,15 @@
       
       <guid>https://juri323.github.io/posts/first/</guid>
       <description>11111111</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://juri323.github.io/posts/</link>
+      <pubDate>Sun, 06 Dec 2020 15:23:26 +0800</pubDate>
+      
+      <guid>https://juri323.github.io/posts/</guid>
+      <description>把远端的两个仓库克隆到GitHubRepo文件夹，因为远端仓库里什么也没有，所以得到的是blog和public两个空仓库，把原D:\blog工程文件夹下的所有文件复制到GitHubRepo\blog仓库，并删掉其中的public文件夹，此时D:\blog可以删除掉。要把生成的网站放到GitHubRepo\public仓库，需要编辑config.toml更改发布的路径，加入一行</description>
     </item>
     
   </channel>

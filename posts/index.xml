@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Hugo Hermit</title>
+		<link>https://juri323.github.io/posts/</link>
+		<description>Recent content in Posts on Hugo Hermit</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 06 Dec 2020 15:23:26 +0800</lastBuildDate>
+		<atom:link href="https://juri323.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Post Title</title>
+			<link>https://juri323.github.io/posts/post-title/</link>
+			<pubDate>Sun, 06 Dec 2020 16:40:15 +0800</pubDate>
+			
+			<guid>https://juri323.github.io/posts/post-title/</guid>
+			<description>文件复制到GitHubRepo\blog仓库，并删掉其中的public文件夹，此时D:\blog可以删除掉。要把生成的网站放到GitHubRepo\public仓库，需要编辑config.toml更改发布的路径，加入一行</description>
+			<content type="html"><![CDATA[<p>文件复制到GitHubRepo\blog仓库，并删掉其中的public文件夹，此时D:\blog可以删除掉。要把生成的网站放到GitHubRepo\public仓库，需要编辑config.toml更改发布的路径，加入一行</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Second</title>
+			<link>https://juri323.github.io/posts/second/</link>
+			<pubDate>Sun, 06 Dec 2020 16:11:33 +0800</pubDate>
+			
+			<guid>https://juri323.github.io/posts/second/</guid>
+			<description>2222222222</description>
+			<content type="html"><![CDATA[<p>2222222222</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>First</title>
+			<link>https://juri323.github.io/posts/first/</link>
+			<pubDate>Sun, 06 Dec 2020 16:11:13 +0800</pubDate>
+			
+			<guid>https://juri323.github.io/posts/first/</guid>
+			<description>11111111</description>
+			<content type="html"><![CDATA[<p>11111111</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
