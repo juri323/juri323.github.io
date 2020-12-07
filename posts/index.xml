@@ -10,13 +10,18 @@
 		<atom:link href="https://juri323.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Post Title2</title>
-			<link>https://juri323.github.io/posts/post-title2/</link>
-			<pubDate>Sun, 06 Dec 2020 17:19:49 +0800</pubDate>
+			<title>博客建立步骤</title>
+			<link>https://juri323.github.io/posts/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E6%AD%A5%E9%AA%A4/</link>
+			<pubDate>Mon, 07 Dec 2020 20:10:03 +0800</pubDate>
 			
-			<guid>https://juri323.github.io/posts/post-title2/</guid>
-			<description></description>
-			<content type="html"><![CDATA[]]></content>
+			<guid>https://juri323.github.io/posts/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E6%AD%A5%E9%AA%A4/</guid>
+			<description>b得到
+博客建立步骤
+hugo</description>
+			<content type="html"><![CDATA[<p>b得到</p>
+<p>博客建立步骤</p>
+<p>hugo</p>
+]]></content>
 		</item>
 		
 		<item>
